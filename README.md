@@ -9,12 +9,7 @@ pip install termcolor
 pip install colorama
 pip install schedule
 ```
-Sometimes code won't work because it's unnable to create new directory, or you don't have WI-FI to send logs (program crashes then too) if that happens, just change log directory ( everywhere in a code ).
-
-# INFO
-Thank you JERZ for your help (and the idea).
-Thank you KIPSED for the code suggestions that gave us something to do during online school.
-if you want to contact me,here is my discord: ***techni49#3135***
+Sometimes code won't work because it's unnable to create new directory, or you don't have WI-FI to send logs (program crashes then too) if that happens, just change log directory.
 
 # disclaimer?
 **I am not responsible for any harm caused by the use of my program.**
